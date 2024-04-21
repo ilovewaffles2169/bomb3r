@@ -35,7 +35,7 @@ not args.verbose and not args.verify and print(
     f'Target: {target} | Threads: {no_of_threads} | SMS: {no_of_sms}')
 
 # proxy setup
-# https://gimmeproxy.com/api/getProxy?curl=true&protocol=http&supportsHttps=true
+# https://gimmeproxy.com/api/getProxy?curl=true&protocol=http&s upportsHttps=true
 
 
 def get_proxy():
